@@ -2,7 +2,7 @@
 
 ## 1. Project Description
 
-This project applies machine learning algorithms to solve the problem of [ghi bài toán của nhóm bạn ở đây].
+...
 
 ## 2. Team Members
 1. Khổng Tuấn Anh
