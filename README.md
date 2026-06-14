@@ -5,11 +5,11 @@
 ...
 
 ## 2. Team Members
-1. Khổng Tuấn Anh
-2. Nguyễn Hoàng Anh
-3. Đỗ Thành Trung
-4. Nguyễn Tuấn Minh
-5. Phạm Đức Linh
+1. Khổng Tuấn Anh - 202416775
+2. Nguyễn Hoàng Anh - 202416773
+3. Đỗ Thành Trung - 202416833
+4. Nguyễn Tuấn Minh - 202416811
+5. Phạm Đức Linh - 202416806
 
 
 
